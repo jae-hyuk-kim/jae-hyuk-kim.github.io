@@ -47,10 +47,10 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 
 | Degree | Major | Institution | Year |
 | :--- | :--- | :--- | :--- |
-| **Ph.D.** | Industrial and Systems Engineering<br><small>(Minor: Operations Research)</small><br><small>GPA: 3.8 / 4.0</small> | NC State University | 2027 (Exp.) |
-| **M.S.** | Industrial Management Engineering<br><small>GPA: 4.2 / 4.5</small> | Korea University | 2022 |
-| **B.S.** | Mechanical Engineering<br><small>GPA: 4.1 / 4.5</small> | Chung-Ang University | 2019 |
-| **B.S.** | Electrical and Electronics Engineering<br><small>GPA: 4.2 / 4.5</small> | Chung-Ang University | 2019 |
+| **Ph.D.** | Industrial and Systems Engineering<br><small>(Minor: Operations Research)</small><br><span style="font-size: 11px; color: #666;">GPA: 3.8 / 4.0</span> | NC State University | 2027 (Exp.) |
+| **M.S.** | Industrial Management Engineering<br><span style="font-size: 11px; color: #666;">GPA: 4.2 / 4.5</span> | Korea University | 2022 |
+| **B.S.** | Mechanical Engineering<br><span style="font-size: 11px; color: #666;">GPA: 4.1 / 4.5</span> | Chung-Ang University | 2019 |
+| **B.S.** | Electrical and Electronics Engineering<br><span style="font-size: 11px; color: #666;">GPA: 4.2 / 4.5</span> | Chung-Ang University | 2019 |
 
 <br>
 
