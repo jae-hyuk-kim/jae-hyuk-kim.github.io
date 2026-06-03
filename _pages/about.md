@@ -86,3 +86,19 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 * S. Lee, K. Roh, S. Kim, and **Jaehyuk Kim** (2020). *Site Control of Smart Manufacturing*, South Korea, ISBN: 978-89-6345-295-1-13320.
 
 </div>
+
+<!-- 구글 검색엔진을 위한 프로필 정보 -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "Jaehyuk Kim",
+  "jobTitle": "Ph.D. Candidate",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "North Carolina State University"
+  },
+  "url": "https://jae-hyuk-kim.github.io/",
+  "image": "https://jae-hyuk-kim.github.io/assets/img/jae-hyuk-kim.jpg"
+}
+</script>
