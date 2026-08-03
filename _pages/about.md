@@ -58,7 +58,7 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 
 * **Jaehyuk Kim**, O. Y. Özaltın, M. Bodur, and M. E. Mayorga, "Evacuation Planning for Disaster Preparedness: An Adaptive Robust Optimization Approach", Submitted.
   <details>
-  <summary style="cursor: pointer; color: gray; font-size: 0.9em;">Click to view full contributions</summary>
+  <summary style="cursor: pointer; color: gray; font-size: 0.9em;">View full contributions</summary>
   <ul style="margin-top: 10px; font-size: 0.95em; list-style-type: circle;">
     <li>We develop, to our knowledge, the first two-stage adaptive robust evacuation planning framework that jointly optimizes strategic relief supply prepositioning and adaptive post-disaster relief distribution under demand uncertainty while integrating shelter location and evacuation route planning.</li>
     <li>Within the proposed framework, we formulate two traffic assignment variants: a centralized constrained system-optimal model and a decentralized user route choice model. The latter introduces a novel decision-dependent structure in which evacuees choose among acceptable routes, with the choice set determined by shelter opening decisions. Together, these variants enable an assessment of the operational value of centralized route planning under uncertainty.</li>
