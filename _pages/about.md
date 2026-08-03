@@ -59,11 +59,13 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 * **Jaehyuk Kim**, O. Y. Özaltın, M. Bodur, and M. E. Mayorga, "Evacuation Planning for Disaster Preparedness: An Adaptive Robust Optimization Approach", Submitted.
   <details>
   <summary style="cursor: pointer; color: gray; font-size: 0.9em;">Click to view key contributions</summary>
-  
-  <br>
-  
-  * dd
-  
+  <ul style="margin-top: 10px; font-size: 0.95em; list-style-type: circle;">
+    <li>We develop, to our knowledge, the first two-stage adaptive robust evacuation planning framework that jointly optimizes strategic relief supply prepositioning and adaptive post-disaster relief distribution under demand uncertainty while integrating shelter location and evacuation route planning.</li>
+    <li>Within the proposed framework, we formulate two traffic assignment variants: a centralized constrained system-optimal model and a decentralized user route choice model. The latter introduces a novel decision-dependent structure in which evacuees choose among acceptable routes, with the choice set determined by shelter opening decisions. Together, these variants enable an assessment of the operational value of centralized route planning under uncertainty.</li>
+    <li>We provide theoretical complexity insights for adaptive robust evacuation planning, showing that the computational difficulty arises from multiple layers of the problem: the deterministic version is NP-hard and the full adaptive robust decision problem with a bounded polyhedral uncertainty set is $\Sigma_2^p$-complete. We also identify a polynomially solvable recourse subproblem, clarifying which part remains tractable.</li>
+    <li>Building on the complexity insights, we develop a partition-and-bound algorithm with a problem-tailored active-partition refinement rule that produces strong upper and lower bounds while controlling the growth of the search tree. Computational experiments show that the method achieves better solution quality within comparable solution time to existing partition-based benchmarks. Although designed to efficiently solve the proposed evacuation planning model, the method is generic and can be applied to other two-stage adaptive robust optimization problems with mixed-integer recourse.</li>
+    <li>We provide computational and managerial insights through a case study on the Sioux Falls network, demonstrating the practical tractability of the proposed approach and characterizing the trade-off between unmet relief item demand and evacuation time, the value of centralized route planning, and the benefits of adaptive post-disaster relief distribution under varying resource availability and operational priorities.</li>
+  </ul>
   </details>
 * **Jaehyuk Kim** and O. Y. Özaltın, "Multistage Adaptive Robust Optimization for Evacuation Planning: A Machine Learning-Augmented Approach", Working Paper.
 * **Jaehyuk Kim**, O. Y. Özaltın, and N. R. Chowdhury, "Contextual Risk-Averse Stochastic Optimization for Evacuation Planning: A Decision-focused Learning Approach", In Preparation.
