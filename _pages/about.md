@@ -62,7 +62,7 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
   
   <br>
   
-  * 
+  * dd
   
   </details>
 * **Jaehyuk Kim** and O. Y. Özaltın, "Multistage Adaptive Robust Optimization for Evacuation Planning: A Machine Learning-Augmented Approach", Working Paper.
