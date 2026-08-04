@@ -56,7 +56,7 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 
 ## Current Projects
 
-* **Jaehyuk Kim**, O. Y. Özaltın, M. Bodur, and M. E. Mayorga, "Evacuation Planning for Disaster Preparedness: An Adaptive Robust Optimization Approach", Submitted.
+* **Jaehyuk Kim**, M. Bodur, M. E. Mayorga, and O. Y. Özaltın, "Evacuation Planning for Disaster Preparedness: An Adaptive Robust Optimization Approach", Submitted.
   <details>
   <summary style="cursor: pointer; color: gray; font-size: 0.9em;">View full contributions</summary>
   <ul style="margin-top: 10px; font-size: 0.95em; list-style-type: circle;">
@@ -74,7 +74,7 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 
 ## Conferences & Proceedings
 
-* **Jaehyuk Kim**, O. Y. Özaltın, M. Bodur, and M. E. Mayorga, "Shelter Location and Evacuation Planning under Demand Uncertainty: An Adaptive Robust Optimization Approach", *INFORMS Annual Meeting 2025*. 
+* **Jaehyuk Kim**, M. Bodur, M. E. Mayorga, and O. Y. Özaltın, "Shelter Location and Evacuation Planning under Demand Uncertainty: An Adaptive Robust Optimization Approach", *INFORMS Annual Meeting 2025*. 
 * A. Abu Orabi, **Jaehyuk Kim**, A. R. Escobedo, and O. Y. Özaltın, "Data-Driven Solutions for Waste Material Composition Prediction: Bridging Industrial Engineering and Sustainability", *Proceedings of the IISE Annual Conference & Expo 2025*<br>&nbsp;&nbsp;&nbsp;&nbsp;<small>*Selected as one of three finalists for the Sustainable Development Best Track Paper Award.*</small>
 
 <br>
