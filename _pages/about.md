@@ -56,7 +56,7 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 
 ## Current Projects
 
-* **Jaehyuk Kim**, M. Bodur, M. E. Mayorga, and O. Y. Özaltın, "Evacuation Planning for Disaster Preparedness: An Adaptive Robust Optimization Approach", Submitted. [<a href="https://arxiv.org/pdf/2608.04225.pdf" target="_blank">Link</a>]
+* **Jaehyuk Kim**, M. Bodur, M. E. Mayorga, and O. Y. Özaltın, "Evacuation Planning for Disaster Preparedness: An Adaptive Robust Optimization Approach", Submitted. [<a href="https://arxiv.org/pdf/2608.04225" target="_blank">Link</a>]
   <details>
   <summary style="cursor: pointer; color: gray; font-size: 0.9em;">View full contributions</summary>
   <ul style="margin-top: 10px; font-size: 0.95em; list-style-type: circle;">
