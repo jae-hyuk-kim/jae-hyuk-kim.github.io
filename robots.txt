@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kim-jaehyuk.github.io/sitemap.xml
+Sitemap: https://jae-hyuk-kim.github.io/sitemap.xml
