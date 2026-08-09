@@ -67,7 +67,7 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
     <li>We provide computational and managerial insights through a case study on the Sioux Falls network, demonstrating the practical tractability of the proposed approach and characterizing the trade-off between unmet relief item demand and evacuation time, the value of centralized route planning, and the benefits of adaptive post-disaster relief distribution under varying resource availability and operational priorities.</li>
   </ul>
   </details>
-* **Jaehyuk Kim** and O. Y. Özaltın, "Multistage Adaptive Robust Optimization for Evacuation Planning: A Machine Learning-Augmented Approach", Working Paper.
+* **Jaehyuk Kim** and O. Y. Özaltın, "Multistage Adaptive Robust Optimization for Resilient Power Systems: A Machine Learning-Augmented Approach", Working Paper.
 * **Jaehyuk Kim**, O. Y. Özaltın, and N. R. Chowdhury, "Contextual Risk-Averse Stochastic Optimization for Evacuation Planning: A Decision-focused Learning Approach", In Preparation.
   
 <br>
