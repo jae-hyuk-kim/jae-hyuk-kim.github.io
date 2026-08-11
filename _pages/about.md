@@ -108,7 +108,7 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
     "@type": "Organization",
     "name": "North Carolina State University"
   },
-  "url": "https://jae-hyuk-kim.github.io/",
-  "image": "https://jae-hyuk-kim.github.io/assets/img/jae-hyuk-kim.jpg"
+  "url": "https://.github.io/",
+  "image": "https://jae-hyuk-kim.github.io/assets/img/jae-hyuk-kim-2026.jpg"
 }
 </script>
