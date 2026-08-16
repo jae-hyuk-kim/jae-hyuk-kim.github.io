@@ -54,7 +54,7 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 
 <br>
 
-## Current Projects
+## Research & Publications
 
 * **Jaehyuk Kim**, M. Bodur, M. E. Mayorga, and O. Y. Özaltın, "Evacuation Planning for Disaster Preparedness: An Adaptive Robust Optimization Approach", Submitted. [<a href="https://arxiv.org/pdf/2608.04225" target="_blank">Link</a>]
   <details>
@@ -69,6 +69,8 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
   </details>
 * **Jaehyuk Kim** and O. Y. Özaltın, "Multistage Adaptive Robust Optimization for Resilient Power Systems: A Machine Learning-Augmented Approach", Working Paper.
 * **Jaehyuk Kim**, O. Y. Özaltın, and N. R. Chowdhury, "Contextual Risk-Averse Stochastic Optimization for Evacuation Planning: A Decision-focused Learning Approach", In Preparation.
+* **Jaehyuk Kim** and Y. Seo (2022), "Integrated Optimization of Facility Layout and Job Shop Scheduling in a Reconfigurable Manufacturing System", *Journal of the Korean Institute of Industrial Engineers*.
+* **Jaehyuk Kim** and S. Kim (2021), "A Study of Productivity Analysis Method Based on Manufacturing Big Data Using the FOM System in the FOMs Package", *Journal of the Korean Society of Manufacturing Technology Engineers*.
   
 <br>
 
@@ -79,7 +81,7 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 
 <br>
 
-## Honors and Awards
+## Honors & Awards
 
 * **Edward P. Fitts Fellowship**, Dept. of ISE, NCSU, 2023<br>&nbsp;&nbsp;&nbsp;&nbsp;<small>*Highly competitive, fully funded fellowship for academic excellence and research potential.*</small>
 * **Edward P. Fitts Fellowship**, Dept. of ISE, NCSU, 2022<br>&nbsp;&nbsp;&nbsp;&nbsp;<small>*Highly competitive, fully funded fellowship for academic excellence and research potential.*</small>
