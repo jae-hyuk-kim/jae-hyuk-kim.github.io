@@ -56,7 +56,7 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 
 ## Research & Publications
 
-* **Jaehyuk Kim**, M. Bodur, M. E. Mayorga, and O. Y. Özaltın, "Evacuation Planning for Disaster Preparedness: An Adaptive Robust Optimization Approach", Submitted. [<a href="https://arxiv.org/pdf/2608.04225" target="_blank">Link</a>]
+* **Jaehyuk Kim**, M. Bodur, M. E. Mayorga, and O. Y. Özaltın, "Evacuation Planning for Disaster Preparedness: An Adaptive Robust Optimization Approach", *Submitted*. [<a href="https://arxiv.org/pdf/2608.04225" target="_blank">Link</a>]
   <details>
   <summary style="cursor: pointer; color: gray; font-size: 0.9em;">View full contributions</summary>
   <ul style="margin-top: 10px; font-size: 0.95em; list-style-type: circle;">
@@ -67,8 +67,8 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
     <li>We provide computational and managerial insights through a case study on the Sioux Falls network, demonstrating the practical tractability of the proposed approach and characterizing the trade-off between unmet relief item demand and evacuation time, the value of centralized route planning, and the benefits of adaptive post-disaster relief distribution under varying resource availability and operational priorities.</li>
   </ul>
   </details>
-* **Jaehyuk Kim** and O. Y. Özaltın, "Multistage Adaptive Robust Optimization for Resilient Power Systems: A Machine Learning-Augmented Approach", Working Paper.
-* **Jaehyuk Kim**, O. Y. Özaltın, and N. R. Chowdhury, "Contextual Risk-Averse Stochastic Optimization for Evacuation Planning: A Decision-focused Learning Approach", In Preparation.
+* **Jaehyuk Kim** and O. Y. Özaltın, "Multistage Adaptive Robust Optimization for Resilient Power Systems: A Machine Learning-Augmented Approach", *Working Paper*.
+* **Jaehyuk Kim**, O. Y. Özaltın, and N. R. Chowdhury, "Contextual Risk-Averse Stochastic Optimization for Evacuation Planning: A Decision-focused Learning Approach", *In Preparation*.
 * **Jaehyuk Kim** and Y. Seo (2022), "Integrated Optimization of Facility Layout and Job Shop Scheduling in a Reconfigurable Manufacturing System", *Journal of the Korean Institute of Industrial Engineers*.
 * **Jaehyuk Kim** and S. Kim (2021), "A Study of Productivity Analysis Method Based on Manufacturing Big Data Using the FOM System in the FOMs Package", *Journal of the Korean Society of Manufacturing Technology Engineers*.
   
