@@ -102,15 +102,24 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
 <!-- 구글 검색엔진을 위한 프로필 정보 -->
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org/",
-  "@type": "Person",
+  "@context": "https://schema.org",
+  "@type": "WebPage",
   "name": "Jaehyuk Kim",
-  "jobTitle": "Ph.D. Candidate",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "North Carolina State University"
+  "url": "https://jae-hyuk-kim.github.io/",
+  "primaryImageOfPage": {
+    "@type": "ImageObject",
+    "contentUrl": "https://jae-hyuk-kim.github.io/assets/img/jae-hyuk-kim-2026.jpg"
   },
-  "url": "https://.github.io/",
-  "image": "https://jae-hyuk-kim.github.io/assets/img/jae-hyuk-kim-2026.jpg"
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Jaehyuk Kim",
+    "jobTitle": "Ph.D. Candidate",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "North Carolina State University"
+    },
+    "url": "https://jae-hyuk-kim.github.io/",
+    "image": "https://jae-hyuk-kim.github.io/assets/img/jae-hyuk-kim-2026.jpg"
+  }
 }
 </script>
