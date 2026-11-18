@@ -67,7 +67,7 @@ I am a Ph.D. candidate in the Department of Industrial and Systems Engineering a
     <li>We provide computational and managerial insights through a case study on the Sioux Falls network, demonstrating the practical tractability of the proposed approach and characterizing the trade-off between unmet relief item demand and evacuation time, the value of centralized route planning, and the benefits of adaptive post-disaster relief distribution under varying resource availability and operational priorities.</li>
   </ul>
   </details>
-* **Jaehyuk Kim**, M. Bodur, and O. Y. Özaltın, "Three-Stage Adaptive Robust Optimization for Resilient Distribution Network Planning with Mobile Power Sources: Accelerated Column-and-Constraint Generation", *Working Paper*.
+* **Jaehyuk Kim**, M. Bodur, and O. Y. Özaltın, "Three-Stage Adaptive Robust Optimization for Resilient Distribution Network Planning with Mobile Power Sources: An Enhanced Column-and-Constraint Generation Approach", *Working Paper*.
 * **Jaehyuk Kim**, N. R. Chowdhury, and O. Y. Özaltın, "Contextual Risk-Averse Stochastic Optimization for Evacuation Planning: A Decision-focused Learning Approach", *Working Paper*.
 * **Jaehyuk Kim** and Y. Seo (2022), "Integrated Optimization of Facility Layout and Job Shop Scheduling in a Reconfigurable Manufacturing System", *Journal of the Korean Institute of Industrial Engineers*.
 * **Jaehyuk Kim** and S. Kim (2021), "A Study of Productivity Analysis Method Based on Manufacturing Big Data Using the FOM System in the FOMs Package", *Journal of the Korean Society of Manufacturing Technology Engineers*.
